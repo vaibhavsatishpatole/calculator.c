@@ -1,4 +1,4 @@
-# calculator.c
+# calneder.c
 //this is my first repository.
 // C program to print the month by month 
 // calendar for the given year 
